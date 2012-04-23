@@ -1,0 +1,1 @@
+﻿package net.southernlabs.arti323.planet_oogle.views.composite{	import flash.events.*;	import flash.display.MovieClip;	import com.inruntime.utils.Global;	public class Intro extends MovieClip	{		private var $:Global = Global.getInstance();				public function Intro()		{			trace("Intro ***** instantiated");					}	}}

@@ -1,0 +1,1 @@
+﻿package net.southernlabs.arti323.memorymadness.views.fragments {		import flash.display.MovieClip	import flash.events.Event;	public class Captain extends MovieClip {				private var nickname:String;		public function Captain() {			// constructor code			nickname = "somebody";			trace(nickname);		}	}	}
